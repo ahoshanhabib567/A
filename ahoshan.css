@@ -1,0 +1,35 @@
+  body{
+    font-family: sans-serir;
+    color: #000066;
+   line-height:30px ; }
+   .purple{color:#cc66ff ;}
+   
+     .half{ width: 50%;
+    float: left;}
+
+     .side{width:100% ;
+    padding-left:5%; 
+    margin-right:10px ;}
+
+    .btn{color: white;
+     background-color: #8845f4;
+    padding: 13px 42px;
+    border-radius: 20px;
+    text-decoration: none;
+    text-align:center ;}
+
+   h2{font-size: 1.5em;
+   text-align:center ;
+  }
+    h3{text-align:center }
+ 
+ .container{ padding-left: 7%;
+    display:inline-block;
+    border:5px #6600cc solid ;}
+    .experience{padding: 10px;
+    border-left:2px solid #cc33ff;}
+
+    .foot{background-color: black ;
+    color:white ;}
+    a{text-decoration:none ;}
+    .contact{padding-left: 90px;}
