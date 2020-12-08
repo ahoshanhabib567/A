@@ -9,7 +9,8 @@
 
      .side{width:100% ;
     padding-left:5%; 
-    margin-right:10px ;}
+    margin-right:10px ;
+    border-radius:15px;}
 
     .btn{color: white;
      background-color: #8845f4;
@@ -25,11 +26,13 @@
  
  .container{ padding-left: 7%;
     display:inline-block;
-    border:5px #6600cc solid ;}
+    border:5px #6600cc solid ;
+    border-radius:10px ;}
     .experience{padding: 10px;
     border-left:2px solid #cc33ff;}
 
     .foot{background-color: black ;
-    color:white ;}
+    color:white ;
+    border-radius: 15px;}
     a{text-decoration:none ;}
     .contact{padding-left: 90px;}
